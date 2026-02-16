@@ -53,7 +53,6 @@ When running with --bench, the program outputs the following to stderr:
 
 ## 📜 License & Credits
 
-  * **Authors:** Originally created by [Ahmadalameri-0](https://github.com/Ahmadalameri-) and [omardalgamoni44-star](https://github.com/omar-2004-git)
-
+* **Authors:** Originally created by [Ahmadalameri-0](https://github.com/Ahmadalameri-0) and [omardalgamoni44-star](https://github.com/omardalgamoni44-star) as part of the 42 curriculum.
 
 *AI tools were utilized for debugging and refactoring suggestions during development.*
